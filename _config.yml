@@ -2,3 +2,4 @@ theme: jekyll-theme-cayman
 title: kubernautas.com
 description: Consultoria e treinamento em Kubernetes
 google_analytics: UA-119543042-1
+lang: pt-BR
