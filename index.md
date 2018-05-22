@@ -15,3 +15,6 @@ Arquitetura de referência, treinamento e suporte para sua implantação de prod
 ### Treinamento 
 
 Aprenda e se envolva diretamente com a nossa equipe, com cursos para todas as etapas da sua adoção do Kubernetes.
+
+## Fale conosco
+Pensando em adotar Kubernetes ou precisando de ajuda com uma instalação atual? Entre em contato conosco através do email [contato@kubernautas.com](mailto:contato@kubernautas.com) e nós vamos ajudá-lo.
